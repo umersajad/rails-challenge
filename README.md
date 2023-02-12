@@ -10,7 +10,7 @@ The setups steps expect following tools installed on the system.
 ##### 1. Check out the repository
 
 ```bash
-git clone https://github.com/usmanasif/challenge_project.git
+git clone https://github.com/umersajad/rails-challenge.git
 ```
 
 ##### 3. Bubdle
